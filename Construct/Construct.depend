@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1727438893 source:c:\users\dell\documents\cpp\construct\myclass.cpp
+	"myclass.h"
+	<iostream>
+
+1727438893 c:\users\dell\documents\cpp\construct\myclass.h
+	"myclass.h"
+
